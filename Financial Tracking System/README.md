@@ -43,7 +43,7 @@ Make sure you have the following installed:
 1. Clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/msafeerhussain/Expense-Tracker.git
+   git clone https://github.com/sripallavyerram/Financial-Tracking-System.git
    ```
 
 2. Navigate to the project directory:
